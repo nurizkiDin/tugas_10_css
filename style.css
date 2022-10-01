@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    height: 680px;
+    background: linear-gradient(to top right, red, white);
+    background-repeat: no-repeat;
+}
+.satu{
+    width: 500px;
+    height: 400px;
+    position: relative;
+    margin: auto;
+    background: radial-gradient(ellipse farthest-corner at 50% 100%, white, blue)
+}
+.dua{
+    width: 500px;
+    height: 200px;
+    position: relative;
+    margin: auto;
+    background: linear-gradient(90deg, white, blue, white)
+}
